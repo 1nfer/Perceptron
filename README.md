@@ -1,4 +1,4 @@
-# Perceptron Simple para reconocer imagenes del dataset IMNST
+# Perceptron Simple para reconocer imagenes del dataset MNIST
 Gonzales Liendo Yamil Alan
 
 Martinez Salcedo Emmanuel del Piero
